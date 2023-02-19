@@ -25,7 +25,7 @@
 <summary><strong>V1.1.0</strong></summary>
 
 ## 설명
-<img src="/img/v1.1.0.png"  width="554" height="537"/> <br>
+<img src="/img/V1.1.0.png"  width="554" height="537"/> <br>
 
 * 임베드 기능 추가
 * '!도움말' 명령어를 통해 사용법을 응답받을 수 있음
