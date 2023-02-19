@@ -34,7 +34,7 @@ public class InterviewService extends ListenerAdapter {
         }
 
         // 면접 연습 기능
-        if (args[0].equalsIgnoreCase(prefix + "q")) {
+        if (args[0].equalsIgnoreCase("q")) {
             int index = random.nextInt(questions.size());
             String[] rawQuestion = questions.get(index).split(":");
             String randomQuestion = rawQuestion[2];
