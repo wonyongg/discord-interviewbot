@@ -20,6 +20,7 @@
 * 객체 지향적으로 설계하기 위해 기능 분할 리팩토링
 * 배포 자동화
 </details>
+
 <details>
 <summary><strong>V1.1.0</strong></summary>
 
@@ -36,14 +37,23 @@
 * AWS를 이용한 배포
 * 세부 항목 별 랜덤 질문 기능 추가
 </details>
+
 <details>
 <summary><strong>V1.1.1</strong></summary>
 
-## 버그 수정
+## 수정 사항
 * http://www.google.com/을 접속할 때 일어나는 일에 대해 OSI 7계층과 연관지어 설명해보세요.
 * 현재 로직에서는 질문 데이터를 콜론(:)을 기준으로 나눠 배열 요소에 담고 있음.
 * http://에서 콜론 삽입으로 인해 질문을 정상적으로 불러오지 못하여 http:// 삭제 처리
 * www.google.com을 접속할 때 일어나는 일에 대해 OSI 7계층과 연관지어 설명해보세요.로 변경함.
+</details>
+
+<details>
+<summary><strong>V1.1.2</strong></summary>
+
+## 수정 사항
+* 도움말 문구 수정
+* '!q'를 통해~ -> 'q'를 입력하여~
 </details>
 
 <br><br>
