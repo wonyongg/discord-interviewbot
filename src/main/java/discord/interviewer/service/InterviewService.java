@@ -30,7 +30,7 @@ public class InterviewService extends ListenerAdapter {
         // 도움말 기능
         if (args[0].equalsIgnoreCase(prefix + "도움말")) {
             event.getChannel().sendMessage("안녕하세요. 저는 면접관 봇입니다.\n\n" +
-                                                   "\'q\'를 통해 저와 간단한 면접 연습을 진행하실 수 있습니다.").queue();
+                                                   "\'q\'를 입력하여 저와 간단한 면접 연습을 진행하실 수 있습니다.").queue();
         }
 
         // 면접 연습 기능
