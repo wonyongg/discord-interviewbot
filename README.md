@@ -5,6 +5,8 @@
 
 ### [봇 사용해보기👇🏻](https://discord.com/api/oauth2/authorize?client_id=1075652244936069232&permissions=8&scope=bot) <br>
 
+### [질문 리스트 💼](https://github.com/wonyongg/discord-interviewbot/blob/main/src/main/resources/interview_questions.txt) <br>
+
 <details>
 <summary><strong>V1.0.0</strong></summary>
 
