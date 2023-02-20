@@ -7,6 +7,7 @@
 
 ### [질문 리스트 💼](https://github.com/wonyongg/discord-interviewbot/blob/main/src/main/resources/interview_questions.txt) <br>
 
+***
 <details>
 <summary><strong>V1.0.0</strong></summary>
 
@@ -62,7 +63,17 @@
 * '!q'를 통해~ -> 'q'를 입력하여~
 </details>
 
-<br><br>
+<details>
+<summary><strong>V1.2.0</strong></summary>
+
+## 수정 사항
+* 도움말 문구 수정
+* Embed 문구 수정
+* 일부 질문 내용 수정
+* 명령어 C, J, E를 활용한 세부 카테고리 별 질문 기능 추가 
+* 코드 리팩토링
+</details>
+
 ***
 <strong>질문 출처 :</strong><br>
 [https://github.com/ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question)<br>
