@@ -1,7 +1,7 @@
-# discord-InterviewBot V1.1.2
+# discord-InterviewBot V1.2.0
 ### 🤖효율적인 기술면접 대비를 위한 디스코드 봇을 만드는 중입니다.
 
-<img src="/img/v1.2.0.png"  width="449" height="461"/> <br>
+<img src="/img/v1.1.2.png"  width="444" height="460"/> <br>
 
 ### [봇 사용해보기👇🏻](https://discord.com/api/oauth2/authorize?client_id=1075652244936069232&permissions=8&scope=bot) <br>
 
