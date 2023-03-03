@@ -1,4 +1,4 @@
-# discord-InterviewBot V1.2.0
+# discord-InterviewBot V1.2.1
 ### 🤖효율적인 기술면접 대비를 위한 디스코드 봇을 만드는 중입니다.
 
 <img src="/img/v1.2.0.png"  width="444" height="460"/> <br>
@@ -37,7 +37,7 @@
 * 임베드 기능 추가
 * '!도움말' 명령어를 통해 사용법을 응답받을 수 있음
 * '!q' 명령어 -> 'q'로 변경
-* 현재 저장된 질문은 총 122개
+* 현재 저장된 질문은 총 128개
   <br><br>
 
 ## 추후 업데이트 예정
@@ -74,7 +74,15 @@
 * 코드 리팩토링
 </details>
 
+<details>
+<summary><strong>V1.2.1</strong></summary>
+
+## 수정 사항
+* 일부 질문 수정 및 새 질문 추가
+</details>
+
 ***
 <strong>질문 출처 :</strong><br>
 [https://github.com/ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question)<br>
-[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br>
+이외에, 저와 제 주변 지인들이 면접에서 받은 질문을 수시로 추가하고 있습니다.
