@@ -77,7 +77,7 @@
 <details>
 <summary><strong>V1.2.1</strong></summary>
 
-## 추가 사항
+## 수정 사항
 * 일부 질문 수정 및 새 질문 추가
 </details>
 
