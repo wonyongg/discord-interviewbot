@@ -25,7 +25,7 @@ public class EmbedService extends ListenerAdapter {
 
         builder.setColor(Color.pink);
         builder.setAuthor("Github Repository Link", "https://github.com/wonyongg/discord-interviewbot");
-        builder.setTitle("면접관 봇 V1.2.0");
+        builder.setTitle("면접관 봇 V1.2.1");
         builder.setDescription("🤖 자바 & 스프링 기반 백엔드 엔지니어의 기술 면접을 도와주는 봇입니다.");
         builder.addBlankField(false);
         builder.addField("📌명령어 안내", "아래의 명령어를 입력하시면 명령어에 따른 면접 질문을 받을 수 있습니다.", false);
