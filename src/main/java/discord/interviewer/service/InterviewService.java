@@ -24,7 +24,7 @@ public class InterviewService extends ListenerAdapter {
 
 
     public InterviewService() throws IOException {
-        this.rawQuestions.addAll(Files.readAllLines(Paths.get("src/main/resources/interview_questions.txt")));
+        this.rawQuestions.addAll(Files.readAllLines(Paths.get("/home/ubuntu/action/src/main/resources/interview_questions.txt")));
         this.allQuestions = getQuestionsByTag("[");
         this.csQuestions = getQuestionsByTag("[cs]");
         this.javaQuestions = getQuestionsByTag("[언어 관련]");
