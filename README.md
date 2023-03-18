@@ -1,4 +1,4 @@
-# discord-InterviewBot V1.2.1
+# discord-InterviewBot V1.2.2
 ### 🤖효율적인 기술면접 대비를 위한 디스코드 봇을 만드는 중입니다.
 
 <img src="/img/v1.2.0.png"  width="444" height="460"/> <br>
@@ -81,6 +81,12 @@
 * 현재 저장된 질문은 총 128개
 </details>
 
+<details>
+<summary><strong>V1.2.2</strong></summary>
+
+## 수정 사항
+* GithubActions로 배포 자동화
+</details>
 ***
 <strong>질문 출처 :</strong><br>
 [https://github.com/ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question)<br>
