@@ -1,3 +1,5 @@
 
 .DS_Store
 *.yml
+src/main/resources/application.yml
+build/resources/main/application.yml
