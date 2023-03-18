@@ -14,10 +14,12 @@ import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.OnlineStatus;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.requests.GatewayIntent;
+import org.springframework.context.annotation.PropertySource;
 
 import java.io.IOException;
 
 @Configuration
+@PropertySource("classpath:application.yml")
 public class InterviewBotConfig {
     @Value("${TOKEN}")
     private String discordToken;
