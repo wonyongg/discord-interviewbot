@@ -1,7 +1,7 @@
-# discord-InterviewBot V1.2.2
+# discord-InterviewBot V1.3.0
 ### 🤖효율적인 기술면접 대비를 위한 디스코드 봇을 만드는 중입니다.
 
-<img src="/img/v1.2.0.png"  width="444" height="460"/> <br>
+<img src="/img/v1.3.0.png"  width="224" height="321"/> <br>
 
 ### [봇 사용해보기👇🏻](https://discord.com/api/oauth2/authorize?client_id=1075652244936069232&permissions=8&scope=bot) <br>
 
@@ -78,7 +78,7 @@
 
 ## 수정 사항
 * 일부 질문 수정 및 새 질문 추가
-* 현재 저장된 질문은 총 128개
+  * 현재 저장된 질문은 총 128개
 </details>
 
 <details>
@@ -87,6 +87,17 @@
 ## 수정 사항
 * GithubActions로 배포 자동화
 </details>
+
+<details>
+<summary><strong>V1.3.0</strong></summary>
+
+## 수정 사항
+* 새 질문 추가
+  * 현재 저장된 질문은 총 132개
+* 새 기능 추가
+  * N(네트워크), O(운영체제, D(데이터베이스), A(자료구조/알고리즘) 관련 세부 질문 가능
+</details>
+
 ***
 <strong>질문 출처 :</strong><br>
 [https://github.com/ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question)<br>
