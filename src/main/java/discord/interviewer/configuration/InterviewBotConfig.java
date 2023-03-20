@@ -3,7 +3,7 @@ package discord.interviewer.configuration;
 import javax.security.auth.login.LoginException;
 
 import discord.interviewer.service.EmbedService;
-import discord.interviewer.service.InterviewService;
+import discord.interviewer.service.TextFileService;
 import net.dv8tion.jda.api.EmbedBuilder;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
@@ -38,7 +38,7 @@ public class InterviewBotConfig {
                             .build();
         jda.getPresence().setStatus(OnlineStatus.ONLINE);
         jda.getPresence().setActivity(Activity.playing("면접 준비"));
-        jda.addEventListener(new InterviewService());
+        jda.addEventListener(new TextFileService());
         jda.addEventListener(new EmbedService(embedBuilder()));
         return jda;
     }

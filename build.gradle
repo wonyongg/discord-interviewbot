@@ -19,12 +19,18 @@ repositories {
 	maven { url 'https://jitpack.io' }
 }
 
+ext.notionSdkVersion = "1.8.0"
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
 	implementation 'com.github.DV8FromtheWorld:JDA:v5.0.0-beta.3'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	ext.notionSdkVersion = "1.8.0"
+
+	implementation("com.github.seratch:notion-sdk-jvm-core:${notionSdkVersion}")
+
+
 }
 
 tasks.named('test') {
