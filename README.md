@@ -1,9 +1,13 @@
 # discord-InterviewBot V1.3.0
 ### 🤖효율적인 기술면접 대비를 위한 디스코드 봇을 만드는 중입니다.
+### AWS 프리 티어 만료 문제로 2023년 6월 20일 (화)부터 사용 중지되었습니다!!
+### 코드 PULL 받으시고 직접 봇 만드셔서 사용하시면 됩니다 :)
+
 
 <img src="/img/v1.3.0.png"  width="335" height="481"/> <br>
-
+<!--
 ### [봇 사용해보기👇🏻](https://discord.com/api/oauth2/authorize?client_id=1075652244936069232&permissions=8&scope=bot) <br>
+-->
 
 ### [질문 리스트 💼](https://github.com/wonyongg/discord-interviewbot/blob/main/src/main/resources/interview_questions.txt) <br>
 
